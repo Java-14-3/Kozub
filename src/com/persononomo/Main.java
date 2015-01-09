@@ -51,9 +51,6 @@ public class Main {
         engineer_3.setGender("female");
 
 
-        System.out.println("Occupation\t\t" + "Name\t\t" + "Age\t\t" + "Gender\t\t" + "Kabinet\t\t" + "Work_Type\t\t" + "Car\t\t" + "Parking_Place\t\t");
-        System.out.println("Occupation\t\t" + CEO.getName() + "\t" + "Age\t\t" + "Gender\t\t" + "Kabinet\t\t" + "Work_Type\t\t" + "Car\t\t" + "Parking_Place\t\t");
-        System.out.println("Occupation1111\t\t" + CEO.getName() + "\t" + "Age\t\t" + "Gender\t\t" + "Kabinet\t\t" + "Work_Type\t\t" + "Car\t\t" + "Parking_Place\t\t");
 
     }
 
